@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Hammad Shinwari</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadshinwari33" alt="hammadshinwari33" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshinwari33&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshinwari33" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development from SMIT**
 
 - 📫 How to reach me **Hammadkhanshinwari4477@gmail.com**
 
 - ⚡ Fun fact **I am Funny😜**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadshinwari33" alt="hammadshinwari33" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
