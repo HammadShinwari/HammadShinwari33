@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshinwari33&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshinwari33" /> </p>
 
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshinwari33&" alt="hammadshinwari33" /></p>
+
 - 🌱 I’m currently learning **Full Stack Development from SMIT**
 
 - 📫 How to reach me **Hammadkhanshinwari4477@gmail.com**
