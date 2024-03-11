@@ -1,16 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Hammad Shinwari</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshinwari33&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshinwari33" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadshinwari33" alt="hammadshinwari33" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development from SMIT**
 
 - 📫 How to reach me **Hammadkhanshinwari4477@gmail.com**
 
 - ⚡ Fun fact **I am Funny😜**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadshinwari33" alt="hammadshinwari33" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadshinwari33&show_icons=true&locale=en&layout=compact" alt="hammadshinwari33" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadshinwari33&show_icons=true&locale=en" alt="hammadshinwari33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshinwari33&" alt="hammadshinwari33" /></p>
