@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshinwari33&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshinwari33" /> </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/4415359/screenshots/12483759/media/8262513d57658cc7c053ba9c68024438.gif" width="400px" height="300px"/>
+<img align="right" src="https://cdn.dribbble.com/users/4415359/screenshots/12483759/media/8262513d57658cc7c053ba9c68024438.gif" width="380px" height="280px"/>
 
 - 🌱 I’m currently learning **Full Stack Development from SMIT**
 
